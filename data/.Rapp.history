@@ -1,0 +1,3 @@
+load("/Users/sorensonderby/Documents/Speciale/git/ktsp/data/ktpsdata.rda")
+ls
+ls(9)
